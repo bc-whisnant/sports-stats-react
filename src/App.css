@@ -1,0 +1,29 @@
+body {
+  background-color: #374785 !important;
+  margin: 0 auto;
+}
+.home-container {
+  margin: 10% auto;
+  text-align: center;
+}
+.content-container {
+  margin: 2% auto;
+}
+.team-container {
+  margin-bottom: 2%;
+  text-align: center;
+}
+.team-card {
+  color: #374785 !important;
+  background-color: white;
+  border: 1px solid transparent !important;
+  border-radius: 2% !important;
+}
+
+.team-card:first-child{
+  padding-top: 5%
+}
+
+.svg-inline--fa  {
+  color: white;
+}
