@@ -1,0 +1,6 @@
+const puppeteer = require('puppeteer')
+require('./Home.test')
+require('./Baseball.test')
+require('./Football.test')
+require('./Basketball.test')
+require('./Hockey.test')
